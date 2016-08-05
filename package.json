@@ -1,0 +1,23 @@
+{
+  "name": "fekey-postprocessor-babel-5.x",
+  "version": "1.0.0",
+  "description": "a babel 5.x parser for fekey",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fekey",
+    "parser",
+    "babel"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wmfe/fekey-postprocessor-babel-5.x"
+  },
+  "author": "xumingjie@iwaimai.baidu.com",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "babel-core": "5.8.38"
+  }
+}
